@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascluk" alt="lucascluk" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **IOS Development**
 
 - 💬 Ask me about **Python, Django, Flutter**
 
-- 📫 How to reach me **Lucascluk@icloud.com**
 
 - ⚡ Fun fact **I spend a lot of time reading and learning. So much so I don’t have much of a social life.**
 
