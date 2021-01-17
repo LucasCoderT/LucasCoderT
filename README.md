@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I spend a lot of time reading and learning. So much so I don’t have much of a social life.**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascluk&layout=compact" alt="lucascluk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascodertlayout=compact" alt="lucascodert" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascluk&show_icons=true" alt="lucascluk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascodert&show_icons=true" alt="lucascodert" /></p>
 
