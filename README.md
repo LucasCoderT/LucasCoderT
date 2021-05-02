@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascluk" alt="lucascluk" /> </p>
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently learning **MacOS Development**
 
 - 💬 Ask me about **Python, Django, Flutter**
 
