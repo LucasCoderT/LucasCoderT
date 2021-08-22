@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascluk" alt="lucascluk" /> </p>
 
-- 🌱 I’m currently learning **MacOS Development** AND **Android Development** Now that jetpack compose is out and XML is dead   
+- 🌱 I’m currently learning **MacOS Development** and **Android Development** Now that jetpack compose is out and XML is dead   
 
 - 💬 Ask me about **Python, Django, React**
 
