@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I spend a lot of time reading and learning. So much so I don’t have much of a social life.**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascodert&layout=compact" alt="lucascodert" /></p>
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/LucasCoderT/LucasCoderT/blob/master/github-metrics.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascodert&show_icons=true" alt="lucascodert" /></p>
 
