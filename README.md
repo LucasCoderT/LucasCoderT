@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MacOS Development** and **Android Development** Now that jetpack compose is out and XML is dead   
 
-- 💬 Ask me about **Python, Django, React**
+- 💬 Ask me about **Python, Django, React Or Vue3**
 
 
 - ⚡ Fun fact **I spend a lot of time reading and learning. So much so I don’t have much of a social life.**
