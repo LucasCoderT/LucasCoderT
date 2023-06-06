@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, Django, or Vue3**
 
 
-- ⚡ Fun fact **I spend a lot of time reading and learning. So much so I don’t have much of a social life.**
+- ⚡ Fun fact **I spend a lot of time reading and learning.**
 
 
 <!-- If you're using "master" as default branch -->
